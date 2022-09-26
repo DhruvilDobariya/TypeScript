@@ -1,0 +1,16 @@
+var a = 10;
+console.log(typeof (a));
+var b = "I am Dhruvil Dobariya. I am a dotnet developer.";
+console.log(typeof (b));
+//b = 10;
+var c = true;
+console.log(typeof (c));
+var d = "I also love angular.";
+console.log(typeof (d));
+d = 10;
+console.log(typeof (d));
+var e = "Dhruvil";
+console.log(typeof (e));
+e = 10;
+console.log(typeof (e));
+//e = true;
